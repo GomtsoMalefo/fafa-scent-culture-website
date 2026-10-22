@@ -1,0 +1,39 @@
+CLEAN WEBSITE BUILD PROMPT — FAFA SCENT CULTURE
+
+Build a polished, responsive, mobile-first e-commerce-style website for FAFA Scent Culture, a South African fragrance business with the brand direction “Luxury Meets Kasi Culture.” Use the tagline “Smell Expensive. Move Different.” The design should blend premium fragrance-boutique luxury with authentic modern Johannesburg/kasi energy: near-black backgrounds, metallic gold accents, bold expressive typography, subtle street-art textures, warm cinematic lighting, and editorial product photography. Keep the layout elegant and readable rather than cluttered or stereotypical.
+
+TECH STACK
+- Plain HTML5, CSS3 and vanilla JavaScript.
+- No build step, framework, API key, or paid dependency.
+- Provide index.html, style.css, script.js, README.md and an images folder.
+- Make the site responsive, accessible, keyboard-friendly, and fast.
+
+SECTIONS AND FUNCTIONALITY
+1. Announcement bar and navigation with mobile menu.
+2. Hero with “Smell expensive. Move different.”, a strong call to action, and a premium fragrance visual.
+3. Fragrance collection with filter buttons and product cards. Every product is 100 ml.
+4. Brand story: “Kasi roots. Luxury scents. Unforgettable presence.”
+5. Delivery section with PEP PAXI, Bolt Parcel and Uber Parcel. State clearly that delivery costs extra and must be quoted/confirmed.
+6. Contact section and footer.
+7. Product order buttons open a pre-filled WhatsApp message to +27 74 488 4815. Display both contact numbers: 074 488 4815 and 070 738 0103.
+
+PRODUCTS AND EXACT PRICES
+- Armaf Club de Nuit Urban Man Elixir — R900
+- Armaf Club de Nuit Iconic — R900
+- Lattafa Pride Art of Arabia I — R900
+- Imaginari Jacques Yves — R350
+- Maison Alhambra Smoky — R650
+- Classic Chi — R350
+- Champ de Rose — R350
+- Atlantis — R900
+Use South African rand (ZAR). Do not invent discounts, stock status, reviews, delivery prices, payment methods or product claims. Show 100 ml on every product. Use supplied product photos when available; for missing photos, use tasteful CSS placeholder artwork until real photos are supplied.
+
+BRAND VOICE
+Confident, warm, aspirational, locally grounded, premium, and direct. Avoid fake luxury claims. Use concise copy. Keep “Luxury Meets Kasi Culture” visible.
+
+QUALITY CHECKS
+- Verify all links and selectors work.
+- Check mobile and desktop layouts.
+- Ensure product filters work and WhatsApp order messages include the correct product and price.
+- Ensure all images have useful alt text and the website remains usable if a photo fails to load.
+- Include simple instructions for opening in VS Code and publishing with GitHub Pages.
