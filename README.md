@@ -14,7 +14,6 @@ A responsive, static fragrance storefront built with HTML, CSS and JavaScript. T
 - Lattafa Pride Art of Arabia I — R900
 - Imaginari Jacques Yves — R350
 - Maison Alhambra Smoky — R650
-- Classic Chi — R350 (photo not supplied)
 - Champ de Rose — R350
 - Atlantis — R900
 - The Emper Product Tool Box — R400
@@ -56,7 +55,7 @@ A responsive, static fragrance storefront built with HTML, CSS and JavaScript. T
 - Launo Intense Blue — Ask for price
 - Brown Orchid Oud Edition — Ask for price
 
-Product photos show the supplied products and their original packaging. Sizes vary; refer to each product label. Classic Chi remains listed without an illustration until its product photo is supplied. Products without a supplied price are marked “Ask for price.”
+Product photos show the supplied products and their original packaging. Sizes vary; refer to each product label. Products without a supplied price are marked “Ask for price.”
 
 ## Contact and delivery
 - Phone / WhatsApp: 074 488 4815 and 070 738 0103
