@@ -8,17 +8,20 @@ A responsive, static fragrance storefront built with HTML, CSS and JavaScript. T
 3. Open `index.html` in a browser, or install the **Live Server** extension and select **Go Live**.
 4. Keep `images/`, `index.html`, `style.css` and `script.js` together.
 
-## Product catalogue (100 ml each)
+## Product catalogue
 - Armaf Club de Nuit Urban Man Elixir — R900
 - Armaf Club de Nuit Iconic — R900
 - Lattafa Pride Art of Arabia I — R900
 - Imaginari Jacques Yves — R350
 - Maison Alhambra Smoky — R650
-- Classic Chi — R350
 - Champ de Rose — R350
 - Atlantis — R900
+- The Emper Product Tool Box — R400
+- The Emper Product Tool Box Violet Dreams — R350
+- Dolores Pour Femme — R350
+- Intimation, Oud Al Layl, Suave and Classy Chic Girl — ask for current prices
 
-Classic Chi, Champ de Rose and Atlantis currently use designed placeholder artwork because individual photos for those products were not available in the supplied image set. Replace these cards with real product photos when available.
+Product photos show the supplied products. Sizes vary; refer to each product label.
 
 ## Contact and delivery
 - Phone / WhatsApp: 074 488 4815 and 070 738 0103

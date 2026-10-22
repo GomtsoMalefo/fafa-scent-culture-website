@@ -27,7 +27,8 @@ document.querySelectorAll('.filter').forEach(button => {
 });
 
 function orderProduct(product, price) {
-  const message = `Hi FAFA Scent Culture! I'd like to order: ${product} — R${price}. Please confirm availability and delivery options (PEP PAXI, Bolt Parcel or Uber Parcel).`;
+  const priceRequest = price ? `${product} — R${price}.` : `${product}. Please let me know the price.`;
+  const message = `Hi FAFA Scent Culture! I'd like to order: ${priceRequest} Please confirm availability and delivery options (PEP PAXI, Bolt Parcel or Uber Parcel).`;
   const url = `https://wa.me/27744884815?text=${encodeURIComponent(message)}`;
   window.open(url, '_blank', 'noopener,noreferrer');
 }
@@ -37,10 +38,3 @@ document.querySelectorAll('[data-product]').forEach(button => {
 });
 
 document.getElementById('year').textContent = new Date().getFullYear();
-
-// Use a branded fallback if the lead photo is missing or cannot load.
-const heroImg = document.querySelector('.hero-image-frame img');
-heroImg?.addEventListener('error', () => {
-  const fallback = document.querySelector('.image-fallback');
-  if (fallback) fallback.style.display = 'flex';
-});
