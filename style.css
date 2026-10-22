@@ -41,3 +41,5 @@ h1{font-size:clamp(48px,6vw,82px);margin:24px 0}.hero h1 em,h2 em{color:var(--go
 .hero-glow{right:25%}
 .product-image{background:#111}
 .product-image img{filter:none}
+.photo-pending{background:linear-gradient(135deg,#1b1710,#0b0907)}
+.photo-message{color:var(--muted);font:italic 14px var(--serif)}

@@ -14,14 +14,18 @@ A responsive, static fragrance storefront built with HTML, CSS and JavaScript. T
 - Lattafa Pride Art of Arabia I — R900
 - Imaginari Jacques Yves — R350
 - Maison Alhambra Smoky — R650
+- Classic Chi — R350 (photo not supplied)
 - Champ de Rose — R350
 - Atlantis — R900
 - The Emper Product Tool Box — R400
 - The Emper Product Tool Box Violet Dreams — R350
 - Dolores Pour Femme — R350
-- Intimation, Oud Al Layl, Suave and Classy Chic Girl — ask for current prices
+- Intimation — R350
+- Oud Al Layl — R350
+- Suave — R350
+- Classy Chic Girl — R350
 
-Product photos show the supplied products. Sizes vary; refer to each product label.
+Product photos show the supplied products. Sizes vary; refer to each product label. Classic Chi remains listed without an illustration until its product photo is supplied.
 
 ## Contact and delivery
 - Phone / WhatsApp: 074 488 4815 and 070 738 0103
