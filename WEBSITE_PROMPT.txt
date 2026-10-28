@@ -11,22 +11,18 @@ TECH STACK
 SECTIONS AND FUNCTIONALITY
 1. Announcement bar and navigation with mobile menu.
 2. Hero with “Smell expensive. Move different.”, a strong call to action, and a premium fragrance visual.
-3. Fragrance collection with filter buttons and product cards. Every product is 100 ml.
+3. Fragrance collection with filter buttons and product cards. Show sizes as labelled; sizes vary.
 4. Brand story: “Kasi roots. Luxury scents. Unforgettable presence.”
 5. Delivery section with PEP PAXI, Bolt Parcel and Uber Parcel. State clearly that delivery costs extra and must be quoted/confirmed.
 6. Contact section and footer.
 7. Product order buttons open a pre-filled WhatsApp message to +27 74 488 4815. Display both contact numbers: 074 488 4815 and 070 738 0103.
 
-PRODUCTS AND EXACT PRICES
-- Armaf Club de Nuit Urban Man Elixir — R900
-- Armaf Club de Nuit Iconic — R900
-- Lattafa Pride Art of Arabia I — R900
-- Imaginari Jacques Yves — R350
-- Maison Alhambra Smoky — R650
-- Classic Chi — R350
-- Champ de Rose — R350
-- Atlantis — R900
-Use South African rand (ZAR). Do not invent discounts, stock status, reviews, delivery prices, payment methods or product claims. Show 100 ml on every product. Use supplied product photos when available; for missing photos, use tasteful CSS placeholder artwork until real photos are supplied.
+PRODUCTS, PRICES AND SIZES
+- Use all product names and prices exactly as listed in the README.md Product catalogue section.
+- The README catalogue is the source of truth. Display supplied prices in South African rand (ZAR); mark products without a supplied price as “Ask for price.”
+- Product sizes vary. Refer to each product label and do not claim a size that is not shown on that product.
+- Product photos show the supplied products and their original packaging.
+Do not invent discounts, stock status, reviews, delivery prices, payment methods or product claims. Use tasteful CSS placeholder artwork only for products without supplied photos.
 
 BRAND VOICE
 Confident, warm, aspirational, locally grounded, premium, and direct. Avoid fake luxury claims. Use concise copy. Keep “Luxury Meets Kasi Culture” visible.

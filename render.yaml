@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: fafa-scent-culture
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
