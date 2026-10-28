@@ -61,8 +61,10 @@ A responsive, static fragrance storefront built with HTML, CSS and JavaScript. T
 
 Product photos show the supplied products and their original packaging. Sizes vary; refer to each product label. Products without a supplied price are marked “Ask for price.”
 
+Use the collection search to find a fragrance by name or brand. The brand selector and price filters can be combined.
+
 ## Contact and delivery
-- Phone / WhatsApp: 074 488 4815 and 070 738 0103
+- Phone / WhatsApp: 074 488 4815 and 078 815 8097
 - Delivery is available at an additional fee.
 - Courier options: PEP PAXI, Bolt Parcel and Uber Parcel. Confirm availability and the actual delivery fee before accepting an order.
 - Product order buttons open WhatsApp to 074 488 4815.

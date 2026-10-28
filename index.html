@@ -56,11 +56,26 @@
         <div><p class="eyebrow"><span></span> THE SCENT EDIT</p><h2>Find your <em>signature.</em></h2></div>
         <p>From bold and smoky to clean and magnetic — choose the scent that tells your story before you say a word.</p>
       </div>
-      <div class="filter-row" role="group" aria-label="Filter fragrances">
-        <button class="filter active" data-filter="all">All scents</button>
-        <button class="filter" data-filter="priced">Priced scents</button>
-        <button class="filter" data-filter="ask-price">Ask for price</button>
+      <div class="catalogue-controls">
+        <div class="catalogue-fields">
+          <label class="catalogue-search">
+            <span class="sr-only">Search fragrances</span>
+            <input id="product-search" type="search" placeholder="Search fragrances..." autocomplete="off">
+          </label>
+          <label class="catalogue-brand">
+            <span class="sr-only">Filter by brand</span>
+            <select id="brand-filter">
+              <option value="all">All brands</option>
+            </select>
+          </label>
+        </div>
+        <div class="filter-row" role="group" aria-label="Filter fragrances by price">
+          <button class="filter active" data-filter="all" aria-pressed="true">All scents</button>
+          <button class="filter" data-filter="priced" aria-pressed="false">Priced scents</button>
+          <button class="filter" data-filter="ask-price" aria-pressed="false">Ask for price</button>
+        </div>
       </div>
+      <p class="product-results" id="product-results" aria-live="polite"></p>
       <div class="product-grid">
         <article class="product-card" data-category="priced">
           <div class="product-image image-night"><span class="product-tag">SIGNATURE PICK</span><img src="images/club-de-nuit-urban-elixir.jpeg" alt="Armaf Club de Nuit Urban Man Elixir bottle" loading="lazy"><button class="quick-order" data-product="Armaf Club de Nuit Urban Man Elixir" data-price="900">Order this scent ↗</button></div>
@@ -258,6 +273,7 @@
           <div class="product-image"><span class="product-tag">TERRO PURA</span><img src="images/terro-pura.png" alt="Terro Pura Eau de Parfum bottle" loading="lazy"><button class="quick-order" data-product="Terro Pura">Ask for price ↗</button></div>
           <div class="product-info"><div><p class="product-brand">TERRO PURA</p><h3>Terro Pura</h3></div><strong>Ask for price</strong></div><p class="product-note">70 ml · refer to product label.</p>
         </article>
+        <p class="empty" id="empty-products" hidden>No fragrances found. Try a different search or filter.</p>
       </div>
       <p class="price-note">Product photos show the supplied products and their original packaging. Sizes vary; refer to each product label. Prices are in South African rand (ZAR). Products without a supplied price are marked “Ask for price.”</p>
     </section>
@@ -287,7 +303,7 @@
   <footer class="footer">
     <a class="brand footer-brand" href="#home"><span class="brand-mark">♛</span><span class="brand-name">FAFA <small>SCENT CULTURE</small></span></a>
     <p>Smell expensive. Move different.</p>
-    <div class="footer-contact"><a href="tel:+27744884815">074 488 4815</a><a href="tel:+27707380103">070 738 0103</a><a href="https://wa.me/27707380103">WhatsApp us ↗</a></div>
+    <div class="footer-contact"><a href="tel:+27744884815">Call 074 488 4815</a><a href="tel:+27788158097">Call 078 815 8097</a><a href="https://wa.me/27744884815">WhatsApp 074 488 4815 ↗</a><a href="https://wa.me/27788158097">WhatsApp 078 815 8097 ↗</a></div>
     <small class="copyright">© <span id="year"></span> FAFA Scent Culture. Kasi roots. Luxury scents.</small>
   </footer>
 
